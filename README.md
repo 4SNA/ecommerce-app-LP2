@@ -65,7 +65,7 @@ Paste your configuration into the .env file:
 
 NODE_ENV=production
 PORT=5000
-MONGO_URI=mongodb+srv://ruchirdhanawade_db_user:admin7305@mockstorage.ludutdg.mongodb.net/ecommerce?appName=ecommerce
+MONGO_URI=
 
 ## Step 6: Start the Server with PM2
 # Start the server
